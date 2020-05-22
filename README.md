@@ -1,5 +1,5 @@
 ## K8S_env
-## To Create k8s cluster fire below command
+## To Create k8s cluster in your local system fire below command
 
 # vagrant up
 
